@@ -16,8 +16,8 @@ const About = () => {
             of Engineering, Sangli, established in the year 1992 and completing its 32 years
             of excellence this year.
             <br /><br />
-            ELESA has 56 board members from different years of the Electronics Branch.
-            After a successful event last year with more than 1.5K entries, we are extremely
+            ELESA has 41 board members from different years of the Electronics Branch.
+            After a successful event last year with more than 1.5K participants, we are extremely
             overwhelmed to declare to have ELECTROVERT 2024 – 25, this time with more
             exciting events and prizes.
           </p>
