@@ -110,3 +110,10 @@
 .social-icon:hover {
     transform: scale(1.1); /* Slightly enlarge on hover */
 }
+.image{
+    width: auto;
+    height: 100px;
+}
+#spon{
+    padding-left: 660px;
+}
