@@ -11,8 +11,8 @@ const Footer = () => {
     return (
         <footer className="mainfooter" role="contentinfo">
             <div className="container">
-            <div className='column justify-content-center' id='spon'>
-                        <h3>Our Sponsors</h3>
+            <div className='column justify-content-center spon' >
+                        <h5>Our Sponsors</h5>
                         <img className='image' src='https://res.cloudinary.com/djdyufvvy/image/upload/v1727863465/GOKHALE_WATCH_CO_ENGLISH_LOGO_page-0002_moliir.jpg'></img>
                     </div>
                 <div className="row justify-content-center">
