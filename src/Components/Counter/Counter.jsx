@@ -56,7 +56,7 @@ const Counter = () => {
           </div>
           <div className="col-md-4 col-sm-4">
             <div className="count_box box_hover">
-              <h3><span className="timer">4</span></h3>
+              <h3><span className="timer">2</span></h3>
               <h4>Sponsors</h4>
             </div>
           </div>
