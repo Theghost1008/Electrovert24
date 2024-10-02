@@ -1,6 +1,6 @@
 import React from 'react';
 import './Heading.css'; 
-import elesaLogo from '../src/Components/elesa_LOGO.png';
+import elesaLogo from '../src/Components/elesa';
 const Heading = () => {
   return (
     <div className="heading-container">
