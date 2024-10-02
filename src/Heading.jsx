@@ -4,7 +4,7 @@ import elesaLogo from '../src/Components/elesa';
 const Heading = () => {
   return (
     <div className="heading-container">
-      <img src={elesaLogo} alt="Elesa Logo" className="logo" />
+      <img src={'https://res.cloudinary.com/djdyufvvy/image/upload/v1727887097/elesa_ah7dkg.png'} alt="Elesa Logo" className="logo" />
       <div className="text-content">
         <h3>Walchand College Of Engineering</h3>
         <h4>Electronics Engineering Student's Association(ELESA)</h4>
