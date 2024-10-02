@@ -88,18 +88,31 @@
   font-weight: 700;
 }
 
-@media (max-width: 768px) {
-  .single-intro-text {
-    margin-bottom: 30px;
-  }
+.r3 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 20px;
 }
-.r3
+
+@media (max-width: 768px) {
+  .r3 {
+    flex-direction: column; /* Stack vertically on small screens */
+    align-items: center;
+}
+
+.single-intro-text {
+    width: 100%; /* Make each event take full width */
+    margin-bottom: 20px;
+}
+}
+/* .r3
 {
     
     display: flex;
     justify-content: center;
     gap:20px;
-}
+} */
 .rf
 {
     display: grid;
