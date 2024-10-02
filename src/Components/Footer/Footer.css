@@ -119,3 +119,12 @@
     height: 150px;
     width: auto;
 }
+.spon1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.spon1 .image1{
+    height: auto;
+    width: 250px ;
+}

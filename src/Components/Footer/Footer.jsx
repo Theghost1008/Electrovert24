@@ -11,10 +11,14 @@ const Footer = () => {
     return (
         <footer className="mainfooter" role="contentinfo">
             <div className="container">
-            <div className='column justify-content-center spon' >
+                <div className='column justify-content-center spon' >
                         <h5>Our Sponsors</h5>
                         <img className='image' src='https://res.cloudinary.com/djdyufvvy/image/upload/v1727863465/GOKHALE_WATCH_CO_ENGLISH_LOGO_page-0002_moliir.jpg'></img>
-                    </div>
+                </div>
+                <div className='column justify-content-center spon1' >
+                        <h5>Our Media Partner</h5>
+                        <img className='image1' src='https://res.cloudinary.com/djdyufvvy/image/upload/v1727876845/Sakal_Masthead_jwebda.jpg'></img>
+                </div>
                 <div className="row justify-content-center">
                     <div className="col-md-4 col-sm-3">
                         <div className="footer-pad">
