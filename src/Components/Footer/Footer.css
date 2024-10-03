@@ -128,3 +128,14 @@
     height: auto;
     width: 250px ;
 }
+@media(max-width: 768px){
+    .el h4{
+        text-align: center;
+    }
+    .el ul li{
+        text-align: center;
+    }
+    .fol h4{
+        text-align: center;
+    }
+}

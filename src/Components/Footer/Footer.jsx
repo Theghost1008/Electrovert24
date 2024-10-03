@@ -21,7 +21,7 @@ const Footer = () => {
                 </div>
                 <div className="row justify-content-center">
                     <div className="col-md-4 col-sm-3">
-                        <div className="footer-pad">
+                        <div className="footer-pad el">
                             <h4>ELESA</h4>
                             <ul className="list-unstyled">
                                 <li className="text">Electronics Engineering Students' Association</li>
@@ -30,7 +30,7 @@ const Footer = () => {
                         </div>
                     </div>
 
-                    <div className="col-md-4">
+                    <div className="col-md-4 fol">
                         <h4>Follow Us</h4>
                         <ul className="social-network social-circle">
                             <li>
