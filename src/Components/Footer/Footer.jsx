@@ -59,7 +59,7 @@ const Footer = () => {
                 <div className="row">
                     <div className="col-md-12 copy">
                         <p className="footerb">
-                            © {new Date().getFullYear} ELESA . All rights reserved.
+                            © {new Date().getFullYear()} ELESA . All rights reserved.
                         </p>
                     </div>
                 </div>
