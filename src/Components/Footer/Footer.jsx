@@ -59,7 +59,7 @@ const Footer = () => {
                 <div className="row">
                     <div className="col-md-12 copy">
                         <p className="footerb">
-                            Website Designed and Developed by Web Team Elesa. ©Elesa 2024. All rights reserved.
+                            © {new Date().getFullYear} ELESA . All rights reserved.
                         </p>
                     </div>
                 </div>
